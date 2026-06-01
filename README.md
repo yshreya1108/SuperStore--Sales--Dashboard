@@ -17,7 +17,7 @@ It provides insights into sales performance through KPIs, trends, product catego
 - GitHub for project sharing  
 
 # Dashboard Preview
-
+Dashboard Screenshot (dashboard.png)
 *(Screenshot uploaded directly in this repo — recruiters can view it instantly.)*
 
 # How to Use
